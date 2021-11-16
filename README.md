@@ -3,7 +3,7 @@
 ### Hi there 👋 I am Natha Ram
 #### Full Stack Develper || MERN Developer
 
-- 💬  Ask me about nodeJs, nextJs and reactJs
+- 💬  Ask me about reactJs, nodeJs and nextJs
 - 📫  How to reach me: natharamsoyla701@gmail.com
 ---
 <h3 align="left">Languages and Tools:</h3>
@@ -24,4 +24,4 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/Natharam)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Natharam)   
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=Natharam&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)   
