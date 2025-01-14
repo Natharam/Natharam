@@ -16,91 +16,65 @@
 
 ---
 
-## 🛠️ **Languages and Tools**  
+## 🛠️ **Languages and Tools**
 <div align="center">
-  <div>
-    <a href="https://babeljs.io/" target="_blank">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 100%; overflow-x: auto; padding: 20px;">
+    <div style="text-align: center; transition: transform 0.3s ease; width: 80px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="40" height="40" />
-      <br />Babel
-    </a>
-  </div>
-  <div>
-    <a href="https://getbootstrap.com" target="_blank">
+      <p>Babel</p>
+    </div>
+    <div style="text-align: center; transition: transform 0.3s ease; width: 80px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-      <br />Bootstrap
-    </a>
-  </div>
-  <div>
-    <a href="https://www.w3.org/TR/CSS/" target="_blank">
+      <p>Bootstrap</p>
+    </div>
+    <div style="text-align: center; transition: transform 0.3s ease; width: 80px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-      <br />CSS3
-    </a>
-  </div>
-  <div>
-    <a href="https://expressjs.com" target="_blank">
+      <p>CSS3</p>
+    </div>
+    <div style="text-align: center; transition: transform 0.3s ease; width: 80px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="ExpressJS" width="40" height="40" />
-      <br />ExpressJS
-    </a>
-  </div>
-  <div>
-    <a href="https://git-scm.com/" target="_blank">
+      <p>ExpressJS</p>
+    </div>
+    <div style="text-align: center; transition: transform 0.3s ease; width: 80px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-      <br />Git
-    </a>
-  </div>
-  <div>
-    <a href="https://www.heroku.com/" target="_blank">
+      <p>Git</p>
+    </div>
+    <div style="text-align: center; transition: transform 0.3s ease; width: 80px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="40" height="40" />
-      <br />Heroku
-    </a>
-  </div>
-  <div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <p>Heroku</p>
+    </div>
+    <div style="text-align: center; transition: transform 0.3s ease; width: 80px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-      <br />HTML5
-    </a>
-  </div>
-  <div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <p>HTML5</p>
+    </div>
+    <div style="text-align: center; transition: transform 0.3s ease; width: 80px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-      <br />JavaScript
-    </a>
-  </div>
-  <div>
-    <a href="https://www.mongodb.com/" target="_blank">
+      <p>JavaScript</p>
+    </div>
+    <div style="text-align: center; transition: transform 0.3s ease; width: 80px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-      <br />MongoDB
-    </a>
-  </div>
-  <div>
-    <a href="https://nextjs.org/" target="_blank">
+      <p>MongoDB</p>
+    </div>
+    <div style="text-align: center; transition: transform 0.3s ease; width: 80px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
-      <br />Next.js
-    </a>
-  </div>
-  <div>
-    <a href="https://nodejs.org" target="_blank">
+      <p>Next.js</p>
+    </div>
+    <div style="text-align: center; transition: transform 0.3s ease; width: 80px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-      <br />Node.js
-    </a>
-  </div>
-  <div>
-    <a href="https://reactjs.org/" target="_blank">
+      <p>Node.js</p>
+    </div>
+    <div style="text-align: center; transition: transform 0.3s ease; width: 80px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40" />
-      <br />React.js
-    </a>
-  </div>
-  <div>
-    <a href="https://www.typescriptlang.org/" target="_blank">
+      <p>React.js</p>
+    </div>
+    <div style="text-align: center; transition: transform 0.3s ease; width: 80px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-      <br />TypeScript
-    </a>
-  </div>
-  <div>
-    <a href="https://webpack.js.org" target="_blank">
+      <p>TypeScript</p>
+    </div>
+    <div style="text-align: center; transition: transform 0.3s ease; width: 80px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40" />
-      <br />Webpack
-    </a>
+      <p>Webpack</p>
+    </div>
   </div>
 </div>
 
