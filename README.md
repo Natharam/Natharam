@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/Natharam) 
 
 ### Hi there 👋 I am Natha Ram
-#### Full Stack Develper || MERN Developer
+#### Full Stack Developer || MERN Developer
 
 - 💬  Ask me about reactJs, nodeJs and nextJs
 - 📫  How to reach me: natharamsoyla701@gmail.com
