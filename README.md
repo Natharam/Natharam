@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/Natharam) 
+![Profile views](https://img.shields.io/badge/Profile%20views-0-blue) 
 
 ### Hi there 👋 I am Natha Ram
 #### Full Stack Developer || MERN Developer
