@@ -59,5 +59,5 @@
 
 ## 📈 **GitHub Metrics**
 <p align="center">
-  <img src="https://metrics.lecoq.io/Natharam" alt="GitHub Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Natharam&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Metrics" />
 </p>
