@@ -20,9 +20,14 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Natharam&show_icons=true&locale=en&layout=compact" alt="Natharam" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Natharam&show_icons=true&count_private=true)    
+---
 
-![GitHub metrics](https://metrics.lecoq.io/Natharam)  
+## 🔥 **GitHub Streaks**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Natharam&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streaks" />
+</p>
+
+![GitHub metrics](https://metrics.lecoq.io/Natharam)
 
 ---
 
