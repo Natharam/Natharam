@@ -1,5 +1,4 @@
-[![Profile views](https://gpvc.arturio.dev/Natharam)
-](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Natharam&title=Profile%20Views)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Natharam&title=Profile%20Views)
 
 ### Hi there 👋 I am Natha Ram
 #### Full Stack Developer || MERN Developer
