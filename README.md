@@ -50,11 +50,6 @@
 
 ---
 
-## 🔥 **GitHub Streaks**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Natharam)
-
----
-
 ## 📈 **GitHub Metrics**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Natharam&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Metrics" />
