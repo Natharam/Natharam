@@ -51,7 +51,7 @@
 ---
 
 ## 🔥 **GitHub Streaks**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Natharam&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Natharam)
 
 ---
 
