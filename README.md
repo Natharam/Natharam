@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Natharam&show_icons=true&count_private=true&theme=gruvbox" alt="GitHub Stats 1" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Natharam&show_icons=true&count_private=true&theme=gruvbox" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natharam&layout=compact&theme=gruvbox" alt="Top Languages" />
