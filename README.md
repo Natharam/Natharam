@@ -12,7 +12,7 @@
 ---
 
 ## 🌐 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/natharam123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/natharam)
 
 ---
 ## 🛠️ **Languages and Tools**
