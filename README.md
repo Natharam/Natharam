@@ -1,7 +1,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Natharam)
 
 # Hi there 👋 I'm Natha Ram  
-### I'm Natharam. Full Stack Developer with Expertise in Frontend Precision and Performance | Turning Ideas into Engaging User Interfaces and Merging Aesthetics with Functionality to Build Dynamic, User-Centric Web Applications. 
+- Full Stack Developer with Expertise in Frontend Precision and Performance | Turning Ideas into Engaging User Interfaces and Merging Aesthetics with Functionality to Build Dynamic, User-Centric Web Applications. 
 
 ---
 
